@@ -14,3 +14,7 @@ FlowCoin is the "digital flow" — money that doesn't sit idle. Unlike Bitcoin, 
 - **Instant Tipping**: Send low-cost tips to creators.
 - **Digital Content**: Pay for content directly with FlowCoin.
 - **Flexible Subscriptions**: Pay daily for streaming or services
+
+🔗 Links
+Website: 
+LinkedIn: LinkedIn Profile
