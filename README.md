@@ -17,4 +17,5 @@ FlowCoin is the "digital flow" — money that doesn't sit idle. Unlike Bitcoin, 
 
 🔗 Links
 Website: 
-LinkedIn: LinkedIn Profile
+
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maryan-bogdanov-288520352/)
