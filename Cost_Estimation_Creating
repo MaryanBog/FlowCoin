@@ -1,44 +1,39 @@
-# 💰 Cost Estimation for Creating FlowCoin
+💰 FlowCoin Grant Proposal – Budget Breakdown
+This document presents the funding request for the FlowCoin project submitted to the Polygon Community Grant Program.
 
-This document outlines the estimated costs required to develop and launch FlowCoin.
+🔹 Requested Grant Amount: 125,000 POL
+Expense	Requested Grant (POL)
+Smart contract development & audit	35,000
+Polygon API integration	15,000
+User portal development	30,000
+Marketing & user acquisition	20,000
+Gas fee reserve	25,000
+Total	125,000 POL
+🔹 Budget Allocation Details
+1️⃣ Smart Contract Development & Audit (35,000 POL)
+Secure and optimized smart contract development for FlowCoin.
 
-## 🔹 **Estimated Budget Breakdown**
+Independent audit to ensure security and prevent vulnerabilities.
 
-| **Expense**                          | **Estimated Cost (POL)** |
-|-------------------------------------|-------------------------|
-| Initial liquidity                   | 75,000                 |
-| Smart contract development & audit  | 50,000                 |
-| Polygon API integration              | 25,000                 |
-| User portal development              | 50,000                 |
-| Marketing & user acquisition         | 25,000                 |
-| Gas fee reserve                      | 25,000                 |
-| **Total**                            | **250,000 POL**         |
+2️⃣ Polygon API Integration (15,000 POL)
+Seamless integration with Polygon’s network.
 
-## 🔹 **Detailed Cost Breakdown**
+Ensuring reliable and scalable transactions.
 
-### 1️⃣ **Initial Liquidity (75,000 POL)**
-- Ensures market stability and smooth trading.
-- Provides the necessary liquidity for early adopters.
+3️⃣ User Portal Development (30,000 POL)
+Creating a user-friendly platform for FlowCoin holders.
 
-### 2️⃣ **Smart Contract Development & Audit (50,000 POL)**
-- Writing secure and efficient smart contracts for FlowCoin.
-- Independent security audit to prevent vulnerabilities.
+Features include balance tracking, airdrop participation, and token transactions.
 
-### 3️⃣ **Polygon API Integration (25,000 POL)**
-- Connecting FlowCoin with Polygon’s network for real-time updates.
-- Ensuring seamless transaction processing.
+4️⃣ Marketing & User Acquisition (20,000 POL)
+Community-building campaigns, influencer partnerships, and PR.
 
-### 4️⃣ **User Portal Development (50,000 POL)**
-- Creating an intuitive and user-friendly interface.
-- Enabling transactions, balance tracking, and airdrop participation.
+Social media engagement and initial adoption incentives.
 
-### 5️⃣ **Marketing & User Acquisition (25,000 POL)**
-- Community growth initiatives and influencer partnerships.
-- PR campaigns, advertising, and social media engagement.
+5️⃣ Gas Fee Reserve (25,000 POL)
+Covering initial operational transaction costs.
 
-### 6️⃣ **Gas Fee Reserve (25,000 POL)**
-- Covers initial operational transaction costs.
-- Ensures smooth onboarding for new users.
+Ensuring smooth onboarding for early users.
 
-## 🔹 **Conclusion**
-To successfully launch FlowCoin, we estimate a required budget of **250,000 POL**. This ensures a secure, functional, and widely adopted ecosystem. Continuous funding may be required for long-term sustainability.
+🔹 Conclusion
+The requested 125,000 POL grant will enable the successful development and launch of FlowCoin within the Polygon ecosystem. This funding ensures the security, usability, and adoption of the project, setting the foundation for long-term growth.
